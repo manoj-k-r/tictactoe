@@ -43,7 +43,7 @@
                     else if (a[0][i]==a[1][i] && a[1][i]==a[2][i] && a[1][i]=="X"){
                         return "X";
                     }
-                    else if (a[0][i]==a[1][i] && a[1][i]==a[2][i] && a[1][i]=="X"){    
+                    else if (a[0][i]==a[1][i] && a[1][i]==a[2][i] && a[1][i]=="O"){    
                         return "O";
                     }
             }
